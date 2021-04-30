@@ -3,7 +3,7 @@
 ###### Don't worry... It's nothing here :(
 <br />
 
-🌱 I’m currently learning HTML, CSS, Javascript, React
+🌱 I’m currently learning HTML, CSS, Javascript, TypeScript, React, Rust
 
 And... I'm really busy with my homework and learning something... :/
 <br /><br />
