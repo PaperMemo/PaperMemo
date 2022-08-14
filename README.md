@@ -9,3 +9,5 @@
 And... I'm really busy with my homework and learning something... :/
 <br /><br />
 But... You can see the repository that I'm working or learning from the pin below... (Not include private repository)
+
+Note: In English it's written "Starlite" not "Starlight"
